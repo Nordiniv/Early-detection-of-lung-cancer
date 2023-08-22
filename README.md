@@ -1,5 +1,8 @@
 # Early Detection of Lung Cancer
 ## Introduction
+
+🚧  This is a construction site, would you like to help me build it? 🚧 
+
 This project is based on the [LUNA16](https://luna16.grand-challenge.org/) dataset. The goal is to detect lung cancer in CT scans. The dataset contains 888 CT scans with annotations. The annotations are in the form of a 3D segmentation mask. This project is covered in the book [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) by Eli Stevens, Luca Antiga, and Thomas Viehmann. The code in this repository is based on the code in the book. The book is a great resource for learning PyTorch. I highly recommend it. This repository is a sequel of the repository covering the first part of the book. The repository can be found [here](https://github.com/Nordiniv/Deep-Learning-with-PyTorch), I decided to seperate them for this project to be more standalone.
 
 ## Environment
